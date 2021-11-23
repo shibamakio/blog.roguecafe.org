@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Koruri';
-    src: url('/webfont/WebKoruri.eot');
-    src: url('/webfont/WebKoruri.eot?#iefix') format('embedded-opentype');
-    src: url('/webfont/WebKoruri.woff') format('woff'),
-         url('/webfont/WebKoruri.ttf') format('truetype');
+    src: url('../webfont/WebKoruri.eot');
+    src: url('../webfont/WebKoruri.eot?#iefix') format('embedded-opentype');
+    src: url('../webfont/WebKoruri.woff') format('woff'),
+         url('../webfont/WebKoruri.ttf') format('truetype');
     
     /*  for fuck'n chrome  */
-    src: url(/webfont/WebKoruri.woff) format('woff'); 
+    src: url(../webfont/WebKoruri.woff) format('woff'); 
 }
